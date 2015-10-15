@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# coding: utf8
 """
 The module contains the basic network architectures
 
