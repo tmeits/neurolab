@@ -1,11 +1,10 @@
-# -*- coding: utf-8 -*-
+# coding: utf-8
 """
 Functions of initialization  layers
 
 """
 
 import numpy as np
-
 
 def init_rand(layer, min=-0.5, max=0.5, init_prop='w'):
     """
