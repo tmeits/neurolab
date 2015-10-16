@@ -1,10 +1,9 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """ 
 Example of use multi-layer perceptron
 =====================================
 
 Task: Approximation function: 1/2 * sin(x)
-
 """
 
 import neurolab as nl
